@@ -1,2 +1,2 @@
 # hello-world
-basic test
+basic learning fot GITHUB
